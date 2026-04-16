@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="#884"
+    android:background="#61612E"
     android:id="@+id/main"
     tools:context=".Signup">
 
@@ -32,6 +32,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:orientation="vertical"
+            android:background="#EDAB96"
             android:padding="12dp">
             <TextView
                 android:id="@+id/responseTxt"
